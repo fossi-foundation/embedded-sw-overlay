@@ -1,7 +1,7 @@
 :toc:
 :sectnums:
 
-= Software Overlay “Software Standard Proposal” Version 0.4-draft-20210502
+= Software Overlay Standard: Version 1.0-rc1-20210812
 
 :doctype: book
 :toclevels: 5
@@ -29,6 +29,8 @@
 * align adoc syntax
 |Ofer Shinaar
 |0.4 |May 2,2021 | Fix syntax for pdf formatting
+|Ofer Shinaar
+|1.0 |Aug 12,2021 | Moved to FOSSI, Freeze SW standard. verion 1.0 first release
 |Ofer Shinaar
 |=============================================
 {nbsp} +
