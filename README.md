@@ -5,5 +5,5 @@
 </p>
  
 The repostority contains:
-- Overlay Software standard ["Overlay Software Standard"](/docs/overlay-software-standard.adoc)
+- ["Overlay Software Standard"](/docs/overlay-software-standard.adoc)
 
